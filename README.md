@@ -18,9 +18,8 @@ Installation
 1. Download the source and open it in your favorite Java IDE (Netbeans is recommended).
 2. Open the default.properties file and edit properties as you consider needed ex. local filesystem paths.
 3. You can run the test suite.
-4. 
 
-TO_DO
+To_do
 =====
 
 Still a lot to do, this is pretty much the same program-ab original version. I will focus on simplifying it and enhancing some of its features in order to make it compatible with Iris.
